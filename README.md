@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@sameera_sa0512" target="blank"><img src="https://img.shields.io/twitter/follow/@sameera_sa0512?logo=twitter&style=for-the-badge" alt="@sameera_sa0512" /></a> </p>
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 📫 How to reach me **sandunsameera250@gmail.com**
 
