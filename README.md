@@ -1,27 +1,11 @@
-<h1 align="center">Hi 👋, I'm Sandun Sameera</h1>
+<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'>, I'm Sandun Sameera</h1>
 <h3 align="center">A Student of The Open University of Sri Lanka. Full Stack developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandun440&label=Profile%20views&color=0e75b6&style=flat" alt="sandun440" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandun440" alt="sandun440" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/@sameera_sa0512" target="blank"><img src="https://img.shields.io/twitter/follow/@sameera_sa0512?logo=twitter&style=for-the-badge" alt="@sameera_sa0512" /></a> </p>
-
-- 🌱 I’m currently learning **MERN Stack**
-
-- 📫 How to reach me **sandunsameera250@gmail.com**
-
-<h3 align="left">Connect with me:</h3><div align="center">
+<div align="center">
 <img width="100%" height = "300px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner4.gif" alt="cover" />
-</div>
-
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
-<p align='center'>
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/sandun440.https://github.com/sandun440)
-
-</p>
-<div size='20px'> Hi! My name is Sandun Sameera. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
 <h2> About Me <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'></h2>
