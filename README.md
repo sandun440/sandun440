@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandun440" alt="sandun440" /></a> </p>
 <div align="center">
-<img width="100%" height = "300px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner4.gif" alt="cover" />
+<img width="100%" height = "400px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner4.gif" alt="cover" />
 </div>
 
 <h2> About Me <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'></h2>
