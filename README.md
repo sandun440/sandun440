@@ -30,7 +30,6 @@
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> </h2>
-<a href="https://twitter.com/@sameera_sa0512" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@sameera_sa0512" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sandun sameera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandun sameera" height="30" width="40" /></a>
 <a href="https://fb.com/sandun sameera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sandun sameera" height="30" width="40" /></a>
 <a href="https://instagram.com/sandun.sameera04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sandun.sameera04" height="30" width="40" /></a>
